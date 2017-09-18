@@ -1,4 +1,4 @@
-# Vision English
+# AI SPY
 
 Este proyecto busca usar la Visión Artificial, para poder facilitar la enseñanza del inglés.
 
